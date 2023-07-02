@@ -4,6 +4,7 @@ title: "The network adapter could not establish the connection error and solutio
 ---
 
 # The network adapter could not establish the connection 원인, 해결
+
 **oracle과 sql developer를 다운받고 커넥션을 해주면 이렇게 에러가 생겼다.**
 ![ora5](https://github.com/ojinga32/ojinga32.github.io/assets/133554766/c1d05b42-43fc-4a1b-ab23-b9cfaefc6467)
 
